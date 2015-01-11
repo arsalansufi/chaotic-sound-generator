@@ -1,0 +1,13 @@
+I collaborated with Kevin Jiang on this final project for Yale's Computer
+Science 432: Sound Representation and Synthesis. Grad student Daniel
+Winograd-Cort also helped us out, specifically with an issue upsampling audio.
+
+Long story short, we used Haskell's music library Euterpea and strange
+attractors from chaos theory (often expressed as systems of differential
+equations) to generate chaotic sounds. The generator uses the power of
+functional programming to express the differential equations of the strange
+attractors elegantly.
+
+Read the project description in project-description.pdf for more details! Also
+check out some of the sounds that we generated in sample-sounds/.
+(lorentzBubbles2.wav was probably our favorite!)
